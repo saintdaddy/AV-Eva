@@ -3,7 +3,8 @@
 AntiVirus Evasion With Python [ For Scantime ]
 
 # Fully Undetected For Scantime
-
+https://antiscan.me/scan/new/result?id=2C36GnXFDBg3
+<a href="https://antiscan.me/scan/new/result?id=2C36GnXFDBg3">Virus Scan Results</a>
 
 # Scantime Version
 > Download the evil file from the url you specify and run it in the temp folder and delete it
