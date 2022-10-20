@@ -1,0 +1,1 @@
+call pyarmor pack -e " --onefile --noconsole --key 4455" src.py
