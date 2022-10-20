@@ -5,7 +5,6 @@ AntiVirus Evasion With Python [ For Scantime ]
 # Fully Undetected For Scantime
 
 
-# How does it work
 # Scantime Version
 > Download the evil file from the url you specify and run it in the temp folder and delete it
 
